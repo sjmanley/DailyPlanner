@@ -110,7 +110,7 @@ hr {
   width: 590px;
   margin-left: -40px;
   margin-right: 50px;
-  height: 2px;
+  height: .75 px;
   background-color:black;
 -webkit-margin-collapse: discard;
 
